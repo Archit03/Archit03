@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a Large Language Model from Scratch for Medical Researchers<br>I'm looking to collaborate on machine learning/Artificial Intelligence research<br>I can help with ML/AI development in PyTorch<br>
+Building a Self-adaptive Sparse MoE AI with Meta-memory for continual learning<br>I'm looking to collaborate on machine learning/Artificial Intelligence research<br>I can help with ML/AI development in PyTorch<br>
 
 
 🌐 Socials:
