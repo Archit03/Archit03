@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a Self-adaptive Sparse MoE AI with Meta-memory for continual learning<br>I'm looking to collaborate on machine learning/Artificial Intelligence research<br>I can help with ML/AI development in PyTorch<br>
+I'm building Adaptive Scale Networks (ASN) is a dynamic neural architecture that uses SVD-based spectral routing, prototype-guided scoring, and exact FLOP budgeting to activate only the most relevant computation per input while keeping total cost strictly deterministic.<br>I'm looking to collaborate on machine learning/Artificial Intelligence research<br>I can help with ML/AI development in PyTorch<br>
 
 
 🌐 Socials:
