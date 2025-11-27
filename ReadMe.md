@@ -6,7 +6,6 @@ I'm building, Adaptive Scale Networks (ASN) is a dynamic neural architecture tha
 - LinkedIn: [https://www.linkedin.com/in/archit-sood-222988175/](https://www.linkedin.com/in/archit-sood-222988175/)
 - GitHub: [https://github.com/architsood99](https://github.com/architsood99)
 - Website: [https://www.ellanorai.org/](https://www.ellanorai.org/)
-usp=sharing)
 - Personal Blog: [https://architsood03.livejournal.com/](https://architsood03.livejournal.com/) 
 
 # 💻 Tech Stack:
