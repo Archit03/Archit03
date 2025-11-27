@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm building Adaptive Scale Networks (ASN) is a dynamic neural architecture that uses SVD-based spectral routing, prototype-guided scoring, and exact FLOP budgeting to activate only the most relevant computation per input while keeping total cost strictly deterministic.<br>I'm looking to collaborate on machine learning/Artificial Intelligence research<br>I can help with ML/AI development in PyTorch<br>
+I'm building, Adaptive Scale Networks (ASN) is a dynamic neural architecture that uses SVD-based spectral routing, prototype-guided scoring, and exact FLOP budgeting to activate only the most relevant computation per input while keeping total cost strictly deterministic.<br>I'm looking to collaborate on machine learning/Artificial Intelligence research<br>I can help with ML/AI development in PyTorch<br>
 
 
 🌐 Socials:
 - LinkedIn: [https://www.linkedin.com/in/archit-sood-222988175/](https://www.linkedin.com/in/archit-sood-222988175/)
 - GitHub: [https://github.com/architsood99](https://github.com/architsood99)
 - Website: [https://www.ellanorai.org/](https://www.ellanorai.org/)
-- Resume: [https://drive.google.com/file/d/1AJ8ruAhg6QegdgdgHvL7B13Yvq3ptxxA/view?usp=sharing](https://drive.google.com/file/d/1AJ8ruAhg6QegdgdgHvL7B13Yvq3ptxxA/view?usp=sharing)
+usp=sharing)
 - Personal Blog: [https://architsood03.livejournal.com/](https://architsood03.livejournal.com/) 
 
 # 💻 Tech Stack:
